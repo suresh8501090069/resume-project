@@ -1,0 +1,41 @@
+{
+  "basics":{
+    "name":"suresh",
+    "email":"suresh12071995@gmail.com",
+    "photo":"suri.jpg",
+    "mobile":"8501090069",
+    "address":"ptr"
+  },
+  "career":{
+    "info":" hi suresh how are you"
+
+},
+
+
+"education":[
+{
+"course":"MCA",
+"college": "SVPCET,puttur",
+"data":["2015-2018","79.5%"]
+},
+
+{
+"course":"B.SC(computers)",
+"college": "govt degree college,puttur",
+"data":["2012-2015","68.5%"]
+},
+
+{
+"course":"intermediat",
+"college": "ghs boys college,ajpet",
+"data":["2010-2012","69.5%"]
+},
+{
+"course":"ssc",
+"school": "ghs school,ajpet",
+"data":["2010","68.5%"]
+}
+
+]
+
+}
